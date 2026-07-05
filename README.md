@@ -14,7 +14,6 @@ Application web complète de gestion de garage développée en JEE.
 - **Frontend :** JSP/JSF
 - **Base de données :** MySQL
 - **Serveur :** WildFly
-- **Architecture :** MVC en couches
-
+- **Architecture MVC multi-couches :** 
 ## Auteur
 **Hatim Tati** — Étudiant en Génie Informatique
